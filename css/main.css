@@ -1,0 +1,21 @@
+
+.slider .btn {
+  margin-top: 20px;
+}
+
+.section-search input {
+  padding-left: 1rem !important;
+  font-size: 20px !important;
+  width: 95% !important;
+}
+
+.autocomplete-content {
+  position: absolute !important;
+  width: 100% !important;
+  
+}
+
+.section-gallery .col{
+
+  padding: 10px !important;
+}
